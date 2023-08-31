@@ -1,4 +1,4 @@
 # Information Visualization
-## This repository is reserved for the discipline MAI5017 - Information Visualization.
+## This repository is reserved for the study of Information Visualization.
 
-https://sites.google.com/usp.br/sistemasderecomendacoes
+For more details access: https://sites.google.com/usp.br/sistemasderecomendacoes
